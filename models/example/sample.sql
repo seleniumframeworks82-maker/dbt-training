@@ -1,1 +1,0 @@
-select 'Doe' as Name, 'Rajendra ' as company
